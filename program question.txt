@@ -1,0 +1,11 @@
+Q 1. (A) WAP to read last 10 characters from a file using system calls. (B) WAP to create one parent process and one child process also display id of both processes. [10]
+Q 2. (A) Write a program to create two threads. One thread prints a welcome message while the second thread adds two numbers. Both the numbers to be added are passed by the main process to the thread as arguments. (B) WAP to implement the process synchronization using mutex locks. [10]
+Q 3. (A) WAP to implement IPC using unnamed pipes. (B) WAP to open a file in read only mode and read the last 5 characters from the file. Print the same on terminal. [10]
+Q 4. (A) WAP to implement IPC using named pipe. (B) WAP to create a file with some lines of content and write “hello” into that file after 4 characters from starting using system call. [10]
+Q 5. (A). WAP to demonstrate race condition between two processes. [10]   (B) WAP to calculate addition of 2 numbers in parent process and display result in child process. [10]
+Q 6. (A) Create two threads. One thread will add two numbers (c=a+b) and the second thread will subtract the numbers (d=a-b).Both threads will return the result to the main() function and product of returned values (c*d) will be printed by the main() function. (B) Write a program to write into a pipe using popen() and pclose() functions. [10]
+Q 7. (A) WAP to create two threads. One will print the numbers from 1 to 10 and the other thread will find whether a number entered by the user is even or odd. (B) WAP using system calls which will read from 3rd character to 10th character from a file opened in read only mode
+Q 8. (A) WAP using system calls which will read from 10th character to 15th character from a file opened in read only mode. (B) WAP to implement race condition using semaphores.	[10]
+Q 9. (A) Write a program to create following hierarchy and verify the relationship between the processes. Where process P1 has 2 children P2 and P3.  (B) WAP which will copy all the data from one file to another file using system calls.[10]
+Q 10. (A) WAP to provide synchronization among processes using mutex locks.  (B) WAP to create the following hierarchy and verify the relationship using getpid() and getppid().
+P1->P2->P3 	 [10]
